@@ -1,0 +1,97 @@
+[
+  {
+    "source": "D:\\YORU\\upstream\\agency-agents",
+    "name": "agency-agents",
+    "usage": "research only; no application source copied",
+    "commit": "ad9264e309bd5e5422c04784372d7841b1e5d604",
+    "license_files": [
+      {
+        "file": "agency-agents-LICENSE",
+        "sha256": "45c861c1178a99178033b61302af7610e870082e874981b57519c2a1369299c0"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\friday-tony-stark-demo",
+    "name": "friday-tony-stark-demo",
+    "usage": "research only; no application source copied",
+    "commit": "4d85750ae4c60c88850a6c69107e91bf02300673",
+    "license_files": []
+  },
+  {
+    "source": "D:\\YORU\\upstream\\handy",
+    "name": "handy",
+    "usage": "research only; no application source copied",
+    "commit": "ba10ce1943ef34e93c09494027fc0b9ced2e8a44",
+    "license_files": [
+      {
+        "file": "handy-LICENSE",
+        "sha256": "4527e126813ef6b6be59fe02c9cb5d0262000de3c44d35e91fde53fa73a9438e"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\jarvis",
+    "name": "jarvis",
+    "usage": "research only; no application source copied",
+    "commit": "00afd0225a71fda898ee48e61d7788524b7d060a",
+    "license_files": [
+      {
+        "file": "jarvis-LICENSE",
+        "sha256": "44b09a6a4173f3112d07861c821500857da44299aed9db995f00c2cd101c9f49"
+      },
+      {
+        "file": "jarvis-THIRD_PARTY_NOTICES.md",
+        "sha256": "750e28eafda2acf25af1b512a4da08933079cb208a67aa1e7276b97a8fb87714"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\jarvis-demo",
+    "name": "jarvis-demo",
+    "usage": "research only; no application source copied",
+    "commit": "4ee73d68ae79cb5c5994f3a6caa0054709a19f8a",
+    "license_files": [
+      {
+        "file": "jarvis-demo-LICENSE",
+        "sha256": "ac87c83035a32613e2915800e46d59db528f7548ff240e57a07d22204b6a2b04"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\OmniVoice",
+    "name": "OmniVoice",
+    "usage": "research only; no application source copied",
+    "commit": "08be0b4ccbac3e13e374e86fbfead4b4cac343e2",
+    "license_files": [
+      {
+        "file": "OmniVoice-LICENSE",
+        "sha256": "a2cebcab65626a8a87b571bd477fd0878fccaca6b14e9e07647ab735862eddc6"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\OpenJarvis",
+    "name": "OpenJarvis",
+    "usage": "research only; no application source copied",
+    "commit": "c60a7e16b0d4f5c5ef9fb5005633f6513e1239f5",
+    "license_files": [
+      {
+        "file": "OpenJarvis-LICENSE",
+        "sha256": "409cf90335f242204c21db8357082cebfcff0a5d13ff069bf9eb6ee15570dfc6"
+      }
+    ]
+  },
+  {
+    "source": "D:\\YORU\\upstream\\ultron-by-sagar-builds",
+    "name": "ultron-by-sagar-builds",
+    "usage": "research only; no application source copied",
+    "commit": "a65306f5a9568655551ec27445f773f20273223a",
+    "license_files": [
+      {
+        "file": "ultron-by-sagar-builds-LICENSE",
+        "sha256": "1916a605322468a219c6a8e2c75d6020f3e2a98ee12e52df4d6525de906572d4"
+      }
+    ]
+  }
+]

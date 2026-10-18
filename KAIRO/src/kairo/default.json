@@ -1,0 +1,6 @@
+{
+  "brain": {"provider": "gemini_live", "model": "models/gemini-3.1-flash-live-preview", "api_version": "v1alpha", "api_key_env": "GEMINI_API_KEY", "voice": "Charon", "proactive_audio": true, "media_resolution": "medium", "thinking_enabled": false, "turn_tuning": {"enabled": false, "silence_ms": 550, "prefix_ms": 150, "end_sensitivity": "high", "start_sensitivity": "default"}},
+  "projects": {"AURORA": {"root": "D:/AURORA/AuroraUE5", "commands": {}}},
+  "research": {"max_sources": 12},
+  "mcp": {"url": "http://127.0.0.1:8000/sse", "allow": ["get_current_time", "get_system_info", "word_count", "format_json"]}
+}

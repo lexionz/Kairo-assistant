@@ -1,0 +1,34 @@
+{
+  "project": "AURORA",
+  "root": "D:\\AURORA\\AuroraUE5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8524639df29a1a2ba2222ecd474f27080e6acfa0c0a96546c5a14944015030e1",
+      "characters": 4489
+    },
+    {
+      "path": "AuroraDayForever.uproject",
+      "sha256": "2532f4fa00309e9516bb8c5c741670bc623756619a4e330ef8145a0e491a723f",
+      "characters": 380
+    },
+    {
+      "path": "Reference/AURORA_STORY_BIBLE.md",
+      "sha256": "eea866864cee57c5aba33fe0eb1ffaf288aebfb69ab7476c168b7b7765d49761",
+      "characters": 25055
+    },
+    {
+      "path": "Reference/AURORA_CHARACTER_BIBLE.md",
+      "sha256": "50771e9d5d10e4ded1ffa8ba6a2ec280df102ad69b926db5be7402022516c564",
+      "characters": 33056
+    },
+    {
+      "path": "Reference/AURORA_VISUAL_BIBLE.md",
+      "sha256": "f2af24c4895d8198cfabe237b26ebc50e9f013b29276dda12a1f4dc216316d66",
+      "characters": 13979
+    }
+  ],
+  "writes": 0,
+  "engine_build": "not run",
+  "reason": "Initial approved scope is read-only inspection; command aliases must be configured explicitly."
+}

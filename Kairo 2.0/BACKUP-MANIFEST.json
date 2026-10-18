@@ -1,0 +1,548 @@
+{
+  "source": "C:\\Users\\Admin\\Documents\\Codex\\2026-09-22\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\KAIRO",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "f87847e3d98d3ca8f9bb3629e3923b4c86aba03ca308aababf8efaef19ba5e91"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "sha256": "47cf5bc1b48250518e9c1ed16c3ab6340be27c4fe16820981873fd8644fd8d3e"
+    },
+    {
+      "path": "Build-KAIRO-UI.cmd",
+      "sha256": "7caa70627d0a71cebac599fea7fcd24892d091ed4509cb8b40924e3f5c6a37d5"
+    },
+    {
+      "path": "CHANGELOG-NATIVE.md",
+      "sha256": "74155f6e5ec2544e72b24662d1877d8a0d25fb66360a8953e25cabee5a24eec1"
+    },
+    {
+      "path": "HANDOFF.md",
+      "sha256": "27627c8b652bd3e1e8ba2f80517631c7cfec8b4210b6654a41316e62d1430439"
+    },
+    {
+      "path": "Install-To-D-KAIRO.cmd",
+      "sha256": "51001ff1a56bea7f6ce07e52a6937f03ba2de70c7a355607564af2ed2e43a3c6"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "38b8b92a2dcfc737a45cb6515b53755b29e47e93349b985da448f5f8b401bb71"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b0512095a67b6ff70a439341b50c49e2497f54646e10f5e1eb94da75920dd8f5"
+    },
+    {
+      "path": "Setup-KAIRO.cmd",
+      "sha256": "7f4820c373751c015ffacc339c8580d55790acd5190bdc144c9a8ea12da324b7"
+    },
+    {
+      "path": "Start-KAIRO.cmd",
+      "sha256": "7d9af58bc522e50c436eff91fa7a267b8b59ca74eaa705387a8b191704e6b14b"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "27627c8b652bd3e1e8ba2f80517631c7cfec8b4210b6654a41316e62d1430439"
+    },
+    {
+      "path": "docs\\APEX_RESEARCH.md",
+      "sha256": "39bf7bfcf9f7cb88ca47f3149f3721306f44015f54177bdeb3a73a863fc2df73"
+    },
+    {
+      "path": "docs\\ARCHIVE_PROVENANCE.json",
+      "sha256": "4ce4a9e424e4a0c1a376aa10abb04a044249372d6335f636cf36258bc8c46b28"
+    },
+    {
+      "path": "docs\\ATTRIBUTION.md",
+      "sha256": "82c774fe43540b98a7e377e2b29b0ea0e9c94535b67921f2a76a60c555aaccac"
+    },
+    {
+      "path": "docs\\CAPABILITIES.md",
+      "sha256": "2cb4665d7d86f93544fddcd18217c0576af208026bdca586b124d4289215d60f"
+    },
+    {
+      "path": "docs\\donor-provenance.json",
+      "sha256": "9c5754ccea8b1fcedc801e087a3b10f8ea20d317aa548f7e5f9669f66eb4d8d9"
+    },
+    {
+      "path": "docs\\GEMINI_LIVE_PARITY.md",
+      "sha256": "1f0c040c6091f722f75526cae66caaaef45f035dd752deca61f7d2194fad66cd"
+    },
+    {
+      "path": "docs\\HISTORICAL_UPSTREAM_AUDIT.md",
+      "sha256": "00d58524133c88afa4479f31d98725e80bbbc9008019873d6f554373f9c6d237"
+    },
+    {
+      "path": "docs\\INTEGRATION_MAP.md",
+      "sha256": "87f69f76ea6df03882d8878ba7211b681c3ef832e1a479493e19c3b2ba31b4d7"
+    },
+    {
+      "path": "docs\\MOBILE.md",
+      "sha256": "10589b4e93a4a3570c7312d744830d2053de6f6b3e0aaa51d9a16a0cece31deb"
+    },
+    {
+      "path": "docs\\NATIVE_UPGRADE.md",
+      "sha256": "011ecb7aebc48f58e371dd7a73f725003c2e0cd3fbde1de154ed26014d8bf1f2"
+    },
+    {
+      "path": "docs\\preservation.json",
+      "sha256": "2b70c2845a8d7d432d654f295d311dcc68ddc9147223c71f866ca80619f5a91f"
+    },
+    {
+      "path": "docs\\UPSTREAM_AUDIT.md",
+      "sha256": "65998cf1ae7c1638be0a301cf1e42d06240659cc436235ff104da65471a028de"
+    },
+    {
+      "path": "scripts\\aurora_inspect.py",
+      "sha256": "90c6a1d9adb7d58c099a657d6a367934fb844a4f361e7f9d874759620f7bae10"
+    },
+    {
+      "path": "scripts\\desktop_smoke.py",
+      "sha256": "0853541ca1322ebe1e7cc6ccd14b4b478d0e50979cdb66e84077dc3f8c010a41"
+    },
+    {
+      "path": "scripts\\extended_research_probe.py",
+      "sha256": "c49140363d31c941f48d0c91cbca059454355f6f76fc0f2c0029e9d6496cab78"
+    },
+    {
+      "path": "scripts\\install_existing.py",
+      "sha256": "56438b275156f64b0246f4c77a49ae4b0ff1599f800929f046a3bd3571841c55"
+    },
+    {
+      "path": "scripts\\mcp_probe.py",
+      "sha256": "30128689d5fe1f6c874bf7f6d615bcf531e31087a39d6e0f9642044f5024df3b"
+    },
+    {
+      "path": "scripts\\mobile_smoke.py",
+      "sha256": "c1637a6d51c40406eed32b9e05157132ddfe76b4858a85a4bb4ed8391e4335c5"
+    },
+    {
+      "path": "scripts\\native_smoke.py",
+      "sha256": "305b674e8bd2c325d7c154733e738b8c8d504204ea15b608ed518ba78278339a"
+    },
+    {
+      "path": "scripts\\research_probe.py",
+      "sha256": "648ac565d42da4108694294e221aab194e14ec5576fbf0aa2603f4ea4fb00b4b"
+    },
+    {
+      "path": "tests\\test_adapter_failures.py",
+      "sha256": "961b1811125618701833b638b0b6071d8b82551a1f2d4fbcc20c0b657203459e"
+    },
+    {
+      "path": "tests\\test_capabilities.py",
+      "sha256": "c3203526a57454c09144acb6bdbde99df605d15762bb04d2d5155ed9041ab7f2"
+    },
+    {
+      "path": "tests\\test_capability_contracts.py",
+      "sha256": "ba2ef290c6611ea4ed2913caf44545216dfa165fa1a74a6ea0004704ced9d930"
+    },
+    {
+      "path": "tests\\test_core.py",
+      "sha256": "1723bba70045e8f69e4cdcdd76e055007d7f239d437e42eeeb26305f70342a61"
+    },
+    {
+      "path": "tests\\test_gemini_live.py",
+      "sha256": "b367ab500686fe883dfdf28ccbad612bff8159843ae8ee42ab55a742d35c46cc"
+    },
+    {
+      "path": "tests\\test_integration.py",
+      "sha256": "b01e7759b94e82fe0578f0fb9cda5a9b994aeb8f58d849ccb9a176cfce9bc789"
+    },
+    {
+      "path": "tests\\test_integrations.py",
+      "sha256": "0584507ae932db8ae4d0202b986bbf72871445e385b6d5e1a087d63a2f0be1d5"
+    },
+    {
+      "path": "tests\\test_live_audio.py",
+      "sha256": "ad0a3867eb29e6bd93e437dd7b1cf88a4b0fd1e70f55f060ade058b4020f72da"
+    },
+    {
+      "path": "tests\\test_live_capabilities.py",
+      "sha256": "420d1ab01d49f1c13f91ea418a24b544b1652c8098a98340004d559f3db5c761"
+    },
+    {
+      "path": "tests\\test_mobile_mirror.py",
+      "sha256": "372a3cec0a140d34f9ed36a1dc0f78346bdc294a721b8141234d09d2e6c72759"
+    },
+    {
+      "path": "tests\\test_native_voice.py",
+      "sha256": "738d5f68b632a9aa72921d9d8c736fa5ede14ac5c7b036d23371c88e4034bff8"
+    },
+    {
+      "path": "tests\\test_provider.py",
+      "sha256": "c4b9a7e98f0924ad2e9c360df961f335e04fc1d18374c462aaf445b122bbccdc"
+    },
+    {
+      "path": "ui\\next-env.d.ts",
+      "sha256": "4e4da12aa061aac172fb1bcb48e9b6e4b293080d2f494327925fdba8f39632ac"
+    },
+    {
+      "path": "ui\\next.config.ts",
+      "sha256": "58038ad9266f60a54c45d7ca19c5bc7e19b6977d72e63abb500ffb1fd0ec2859"
+    },
+    {
+      "path": "ui\\package-lock.json",
+      "sha256": "1b9fbbbe688cf2eca27bf5a2bd4eea3b6f5e1c1b28b3e6e4b26e6e00e8e7918d"
+    },
+    {
+      "path": "ui\\package.json",
+      "sha256": "9460f1c8d61d3ee78a5c2ed1654350a9cce09240e34138e96355ceb7e242068a"
+    },
+    {
+      "path": "ui\\tsconfig.json",
+      "sha256": "9ae7ca3817f842a5d233859a9b48b0bcebe7f71e5d7b678f24d707a9fae94abe"
+    },
+    {
+      "path": "docs\\reference-licenses\\agency-agents-LICENSE",
+      "sha256": "45c861c1178a99178033b61302af7610e870082e874981b57519c2a1369299c0"
+    },
+    {
+      "path": "docs\\reference-licenses\\handy-LICENSE",
+      "sha256": "4527e126813ef6b6be59fe02c9cb5d0262000de3c44d35e91fde53fa73a9438e"
+    },
+    {
+      "path": "docs\\reference-licenses\\jarvis-demo-LICENSE",
+      "sha256": "ac87c83035a32613e2915800e46d59db528f7548ff240e57a07d22204b6a2b04"
+    },
+    {
+      "path": "docs\\reference-licenses\\jarvis-LICENSE",
+      "sha256": "44b09a6a4173f3112d07861c821500857da44299aed9db995f00c2cd101c9f49"
+    },
+    {
+      "path": "docs\\reference-licenses\\jarvis-THIRD_PARTY_NOTICES.md",
+      "sha256": "750e28eafda2acf25af1b512a4da08933079cb208a67aa1e7276b97a8fb87714"
+    },
+    {
+      "path": "docs\\reference-licenses\\OmniVoice-LICENSE",
+      "sha256": "a2cebcab65626a8a87b571bd477fd0878fccaca6b14e9e07647ab735862eddc6"
+    },
+    {
+      "path": "docs\\reference-licenses\\OpenJarvis-LICENSE",
+      "sha256": "409cf90335f242204c21db8357082cebfcff0a5d13ff069bf9eb6ee15570dfc6"
+    },
+    {
+      "path": "docs\\reference-licenses\\ultron-by-sagar-builds-LICENSE",
+      "sha256": "1916a605322468a219c6a8e2c75d6020f3e2a98ee12e52df4d6525de906572d4"
+    },
+    {
+      "path": "src\\kairo\\application.py",
+      "sha256": "0c67854a5d19dce0d00a25a587df868a48c7c0c0eaaa4b43eb951e1dbc7c9f5a"
+    },
+    {
+      "path": "src\\kairo\\authority.py",
+      "sha256": "85886b32501ffcbe3ff8955dff01ca355d8c80c6cd50c5bf87588b3c1affa685"
+    },
+    {
+      "path": "src\\kairo\\capabilities.py",
+      "sha256": "0d54a0c57b4e016167bcb1a73627fa3ef7e718ed7672cd70c769bca2999fd7f7"
+    },
+    {
+      "path": "src\\kairo\\cli.py",
+      "sha256": "95e356c7544041694f9b0d22efc1b76489d15a7c27cf3a3a145461d82efba099"
+    },
+    {
+      "path": "src\\kairo\\companion.html",
+      "sha256": "108b0c57b405b0e188170826f152c05879fae5a9cce840385e245bf6c4edc959"
+    },
+    {
+      "path": "src\\kairo\\companion.py",
+      "sha256": "65b2267961ecfe92861279d0730f0580db6ff850955ee508366a84d59c0b0a49"
+    },
+    {
+      "path": "src\\kairo\\companion_server.py",
+      "sha256": "5d0dfbf561257cb8018e680b9ab3d9887aee7f9a80d8e9497b8bdd5c93dcae46"
+    },
+    {
+      "path": "src\\kairo\\companion_setup.py",
+      "sha256": "281654dc4199468797cff091751f32bc55d09f3acfdeecaca95e36e0d733e0d9"
+    },
+    {
+      "path": "src\\kairo\\contracts.py",
+      "sha256": "c28b46584b6b8d589308d5f8ed2004ecfb4671fbb9e0b215c78f10ca6c4d9113"
+    },
+    {
+      "path": "src\\kairo\\default.json",
+      "sha256": "b8aebaa9e1195d6017234996bd37d14f5f59d02f5dfdb1bc41012f00cced29d7"
+    },
+    {
+      "path": "src\\kairo\\desktop.py",
+      "sha256": "f804877b8a99d07db362e18b9f85a8947eb812f9dabeb392be72e7a6440b8d64"
+    },
+    {
+      "path": "src\\kairo\\gemini_live.py",
+      "sha256": "5cce2e89432b132f0aca27147b5820f87744ba8b08a9d81c4e79a218918e9eef"
+    },
+    {
+      "path": "src\\kairo\\inference.py",
+      "sha256": "d2a9ffc8240352b6b6040405fc534e092e323228cb3b329fa54002370b5eb013"
+    },
+    {
+      "path": "src\\kairo\\integrations.py",
+      "sha256": "26a431356abeb5d504e2f00bbcc1e984f9ad57e7eb9a46d12d24f4ee9dbbf365"
+    },
+    {
+      "path": "src\\kairo\\interaction.py",
+      "sha256": "fe3ad7581f7f57288abd917782b244e19b19bb87bd822e4e900312e23d70b766"
+    },
+    {
+      "path": "src\\kairo\\journal.py",
+      "sha256": "ddf7fbbb981c8f6643de895a798043bcb2432968942d01241d706d4d7b629dd1"
+    },
+    {
+      "path": "src\\kairo\\live_audio.py",
+      "sha256": "f31839942342a34aa3acb54129ba8de607cc06e60174166640a0209cac0154cf"
+    },
+    {
+      "path": "src\\kairo\\local_mcp.py",
+      "sha256": "2c07041cf8892acda3882ecd3fc0af231bc3be9038ddf53e51b2e47e3e1b9406"
+    },
+    {
+      "path": "src\\kairo\\mcp_link.py",
+      "sha256": "d263d6a7b7b669a6f3b88dab231cc19d8dd4e67772b9fd41eb107f9d69a4686d"
+    },
+    {
+      "path": "src\\kairo\\native.py",
+      "sha256": "ac9c265dbcb0c4a0c001039792f7f3d4539b2ed264eebc8ae522e0d0b1ff17a8"
+    },
+    {
+      "path": "src\\kairo\\omnivoice_worker.py",
+      "sha256": "8825964d9bf15128848be1e027a410c8ed468373c60750eb5d6c40073b163fb0"
+    },
+    {
+      "path": "src\\kairo\\plugins.py",
+      "sha256": "52200225e32a885d4f3814b63dfd233ef24bbfb1f056a5422058b780f294a4a9"
+    },
+    {
+      "path": "src\\kairo\\presence.py",
+      "sha256": "2052918cac441a570fd8770fc34e517ca467acdf4b1c688198f8d83f883368b6"
+    },
+    {
+      "path": "src\\kairo\\research.py",
+      "sha256": "2e6d45a829e6e5a6d8a239c3503bd391ba5a4ed126e159631ac5af22afb8010a"
+    },
+    {
+      "path": "src\\kairo\\runtime.py",
+      "sha256": "39b0c0b9bfa87cd9c655b2a8537e0d27108b548da7c77356a499eac6e727b97a"
+    },
+    {
+      "path": "src\\kairo\\specialist.py",
+      "sha256": "0a3f368511c848c0c58323176071713854291e99ac175b21f8c0fd987b96fa23"
+    },
+    {
+      "path": "src\\kairo\\speech.ps1",
+      "sha256": "7b06aa62183e0f037191fde27767cdad7effa6410d870144d671c184eeba60c1"
+    },
+    {
+      "path": "src\\kairo\\tools.py",
+      "sha256": "b2de9e80862744c7544034a2acb2e0d5871cd92a82dd2b8d46754e3862f06d7f"
+    },
+    {
+      "path": "src\\kairo\\voice.py",
+      "sha256": "21c4e45d3a651172853f81e002b2341f6c175160f8c715b664b9e989685b473f"
+    },
+    {
+      "path": "src\\kairo\\voice_adapters.py",
+      "sha256": "5042e7f2284cb9015dce7e469755261955efe7798e3e5791157cfebf9e6070a0"
+    },
+    {
+      "path": "src\\kairo\\wake.ps1",
+      "sha256": "f0aaf8e603617d0f4c7d877142396f33c3f920015007666ec6ef7f9d8c2faf44"
+    },
+    {
+      "path": "src\\kairo\\wake.py",
+      "sha256": "13a0d05d8ae85fa6082de80fc390639b88993d5bac5cf001f91b3e04ace856d3"
+    },
+    {
+      "path": "src\\kairo\\web.py",
+      "sha256": "a78b5bd0c2362d69fc3e66a16a54fd46f475805fe250559cbd94dde5643463ba"
+    },
+    {
+      "path": "src\\kairo\\workspace.py",
+      "sha256": "238bb03f15b63f6463446b473bff289232fac8c8799751e4bb53459974eb8339"
+    },
+    {
+      "path": "src\\kairo\\__init__.py",
+      "sha256": "91447944015cec709e8aa7655f7e9d64e1e4508e7023a57fe3746911c0fc6fed"
+    },
+    {
+      "path": "src\\kairo\\__main__.py",
+      "sha256": "03653e6f92bb9928b0d39b3e9b3ed2696da87a588fa9588eba22d880bc0d919c"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\dependency_links.txt",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\entry_points.txt",
+      "sha256": "7c0c0fca3e3bc8682e7b741115944504a79151c9a884af5c23ebf5b86f2994b5"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\PKG-INFO",
+      "sha256": "7159cad0e2d90c2adec4426bbd7b94a1deaf0466452ae9ae361490d5a64740f9"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\requires.txt",
+      "sha256": "f68f6287d6e10852a05a95894815ac9f44bfe96525810a4a3ced5917f6b83d31"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\SOURCES.txt",
+      "sha256": "4bc66e7ec9f979ac03260a07136f36a8093edb7d2475065303b14a04844d01bb"
+    },
+    {
+      "path": "src\\kairo_desktop.egg-info\\top_level.txt",
+      "sha256": "0b20df6e2f792f1473b2af39c2a1fb7b6e45d831919510d89b8789d579f7665c"
+    },
+    {
+      "path": "ui\\app\\globals.css",
+      "sha256": "6f8ad0a33bc39a584635eac157fa1a887c25e8ae9f9c8e8a23d1df7a5672189c"
+    },
+    {
+      "path": "ui\\app\\layout.tsx",
+      "sha256": "a96e4c43c79381f4d67bd967a69783d65efcdd1e446565bcfea94d427524c04b"
+    },
+    {
+      "path": "ui\\app\\page.tsx",
+      "sha256": "6eb9298ddefeb8063f03df32833ff6fe21f5d872fef2f9d97cbc70d59ad49604"
+    },
+    {
+      "path": "ui\\components\\AssistantPanel.tsx",
+      "sha256": "2036e2f98d66639add29606aa55c9c589c830ff63bbcae1e818634986a8800de"
+    },
+    {
+      "path": "ui\\components\\IntegrationsPanel.tsx",
+      "sha256": "83ac4c88529cfbc707fa15b9888f91a32ccb1560d0bf37aa2f1a1cf97b0ab797"
+    },
+    {
+      "path": "ui\\components\\KairoOrb.tsx",
+      "sha256": "ae5b518034cb6ed4c647caabe715a5fe486da54d36b9b3078e768ffdfe0a0a16"
+    },
+    {
+      "path": "ui\\lib\\handTracker.ts",
+      "sha256": "84c5c41c9899e702f7a24134134989ccb01b5661c7826d718886debd7baac8cb"
+    },
+    {
+      "path": "ui\\lib\\orbScene.ts",
+      "sha256": "1af00770d6532c9e810c9231ede5be7065ae4733a1d0fc3da01ccada11fd97ff"
+    },
+    {
+      "path": "ui\\out\\404.html",
+      "sha256": "c427b78a639a7cf2bedc85884539cdd350c12150bfe1f2783a35dc6d6d53306c"
+    },
+    {
+      "path": "ui\\out\\index.html",
+      "sha256": "46673af477ec669e064180149e35a379a85e49d783888a4b38bf5835a5f09769"
+    },
+    {
+      "path": "ui\\out\\index.txt",
+      "sha256": "df8766b65ffe77fb1463837021556a7958bc892e1eb8c28bbee9fc842e9759ca"
+    },
+    {
+      "path": "ui\\out\\_not-found.html",
+      "sha256": "c427b78a639a7cf2bedc85884539cdd350c12150bfe1f2783a35dc6d6d53306c"
+    },
+    {
+      "path": "ui\\out\\_not-found.txt",
+      "sha256": "3ee023de0e2a47d8804fd6e03eb9f244f47382d4c24a68b3bf316ec14a0368a4"
+    },
+    {
+      "path": "ui\\out\\__next._full.txt",
+      "sha256": "df8766b65ffe77fb1463837021556a7958bc892e1eb8c28bbee9fc842e9759ca"
+    },
+    {
+      "path": "ui\\out\\__next._head.txt",
+      "sha256": "fb6af052b57dc2830506a4b0697526c3a7c246a7fa9a65bc6fc1947b40a761df"
+    },
+    {
+      "path": "ui\\out\\__next._index.txt",
+      "sha256": "ccb9a69270d0489bd3e82ae408330a27a3c3075aa6558d714caaaacbcec2d9cb"
+    },
+    {
+      "path": "ui\\out\\__next._tree.txt",
+      "sha256": "7c2ba067a8f89f4624ef566702891baa96a063eb16cca01b285439e9279accb4"
+    },
+    {
+      "path": "ui\\out\\__next.__PAGE__.txt",
+      "sha256": "1a59cd90249489d1d2faecba2ea7198cdacb7a3e345430af3991d9cb34a94909"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._full.txt",
+      "sha256": "3ee023de0e2a47d8804fd6e03eb9f244f47382d4c24a68b3bf316ec14a0368a4"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._head.txt",
+      "sha256": "2dfe915bc1f123fd6d99e3a727ae40ca656d223d9b804d53ad3604235efedbc1"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._index.txt",
+      "sha256": "ccb9a69270d0489bd3e82ae408330a27a3c3075aa6558d714caaaacbcec2d9cb"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._not-found.txt",
+      "sha256": "19520814d185d083d1bcea3327e6d6b46c35e2b2d9d81c2e022bc828e40167c9"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._tree.txt",
+      "sha256": "b44be0e5c4b71026e9b1f39f2ceb83d97a5d3d304b40937fce62d245a105f64f"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\0cz1d0mv5g_q7.js",
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\0mhb43w5lm1rz.css",
+      "sha256": "9a428c32c3f5220c0878e680a95cd63f72c13424b4b284dd665dcaa837360a25"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\158myu8e_yme3.js",
+      "sha256": "59d6d2186868625417737f3f33980e55f778eb3672cd03a10cf26b1259ca2314"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\1jq4o6yq14o4c.js",
+      "sha256": "b2b0fb9dbb3e38abc0110efd9dc4c5ec29e2e7c6cff449d61c95f354b4014f5b"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\27fqdpzojfyjj.js",
+      "sha256": "9a0b0efd96f98d39247a98384833b43ff8b1c7834b6731d82f1d4a17a851cb67"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\2ckqm4grawju5.js",
+      "sha256": "d05dd25fd691ea8e8a1bfa97c0f0806a284dc9c98edc78ac00dc50a4fd37f0b4"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\3rxl-jt3pdxgx.js",
+      "sha256": "dfa58a0bec19af1dccd5dab0f65d810211dfdd1192e7698cfd4e89ba24af2a4b"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\chunks\\turbopack-0d8oeaxqa4-xi.js",
+      "sha256": "55b13ac9ed86dcbaf716c4f99cd8b98bc99047db67604663599dbccfc9cfc688"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\pK_FpIVi64xqtI7m5Xm4r\\_buildManifest.js",
+      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\pK_FpIVi64xqtI7m5Xm4r\\_clientMiddlewareManifest.js",
+      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
+    },
+    {
+      "path": "ui\\out\\_next\\static\\pK_FpIVi64xqtI7m5Xm4r\\_ssgManifest.js",
+      "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
+    },
+    {
+      "path": "ui\\out\\_not-found\\__next._not-found\\__PAGE__.txt",
+      "sha256": "75d971a7bf1e51a53a11a3676667359878b9d8d5dd0cfcfa0d1858dbbf2e3cd0"
+    }
+  ],
+  "skipped_sensitive_files": [],
+  "excluded_generated_directories": [
+    ".git",
+    ".next",
+    ".pytest_cache",
+    ".venv",
+    "__pycache__",
+    "build",
+    "node_modules",
+    "verification"
+  ]
+}

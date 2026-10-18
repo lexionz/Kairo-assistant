@@ -1,0 +1,302 @@
+[
+  {
+    "archive": "Mark-LIV-main.zip",
+    "sha256": "5f1c4f8378cc21cc39a8fad4c0325d46bde0004a3bfdd7c3b520d9ad8ff2792c",
+    "entries": [
+      {
+        "path": "Mark-LIV-main/.gitignore",
+        "sha256": "bd03fb49b110960a7783381b1b97dcb13b093d829a9fe4c503ceffa283d36d61"
+      },
+      {
+        "path": "Mark-LIV-main/LICENSE",
+        "sha256": "6ea3c36e9ce8bb97b591d5e054b8aca3478493f34ae4bfe8df4770b82fff6081"
+      },
+      {
+        "path": "Mark-LIV-main/actions/background_monitor.py",
+        "sha256": "8adc6a6f0889e9d34b3ab766c2a1ac58108c2194c8ebe3aaf5069a45f77bb0ad"
+      },
+      {
+        "path": "Mark-LIV-main/actions/browser_control.py",
+        "sha256": "ec6cdb27cf501cfcb2ce5004bbb17bebc9c9dc3bcc2b3b4b95d37899bd2be11c"
+      },
+      {
+        "path": "Mark-LIV-main/actions/code_helper.py",
+        "sha256": "b56ca59b8342388660aabd663f58ee9cfbe76ed748cdbcfb49a8e754e6755e5e"
+      },
+      {
+        "path": "Mark-LIV-main/actions/computer_control.py",
+        "sha256": "06083dd4b9dd8e9236e7d8b7f05cbf975504f01ed171fce060fb063936c696e0"
+      },
+      {
+        "path": "Mark-LIV-main/actions/computer_settings.py",
+        "sha256": "cf70addd24c2cb3290a3e7d93530a2ddc520df7382cf2576a4aa11a68100f340"
+      },
+      {
+        "path": "Mark-LIV-main/actions/desktop.py",
+        "sha256": "7eefc336087ad0e2c3fdb9b61a084e0d7d4a33953708c6c8d19f41f5e0ecd20f"
+      },
+      {
+        "path": "Mark-LIV-main/actions/dev_agent.py",
+        "sha256": "d3f67280a1e5d65cbb82ad0ba7e2d1ce51a974b5918405e1cbf5da2b433dd02f"
+      },
+      {
+        "path": "Mark-LIV-main/actions/file_controller.py",
+        "sha256": "13063e97c1ec77bbc3883c7e8bd4af00a4c86aa10f6c0365c47343f497836a00"
+      },
+      {
+        "path": "Mark-LIV-main/actions/file_processor.py",
+        "sha256": "e48945e0936cc5725448c2341372f724e9364c826ff219d10536109f6c0f6ff8"
+      },
+      {
+        "path": "Mark-LIV-main/actions/flight_finder.py",
+        "sha256": "35ae0641b750cfb733f807745a311af2855b6e2be0c4d316ecfd550cf93e38a0"
+      },
+      {
+        "path": "Mark-LIV-main/actions/game_updater.py",
+        "sha256": "485f7c587ca5eee3d58b4225df03bd828e6800320d2aedf14981c720f710d5df"
+      },
+      {
+        "path": "Mark-LIV-main/actions/open_app.py",
+        "sha256": "d2bb751b7ab3625dfa102f0f86b6274c75e00b08fc9b71074688731a2be2c0ad"
+      },
+      {
+        "path": "Mark-LIV-main/actions/proactive.py",
+        "sha256": "3c2faa796468aa54e5184fb46b064c63d934eb0ada15f9ddddb91f6642368622"
+      },
+      {
+        "path": "Mark-LIV-main/actions/reminder.py",
+        "sha256": "b47b7f206fd60128de53d9f3449b42bc92911edd05812e6bba7319728b0e6ec7"
+      },
+      {
+        "path": "Mark-LIV-main/actions/screen_processor.py",
+        "sha256": "b0674fb9581bc2fddf0f17aae5ddf0b55cbff3eb80080ea80ce986e16eab70fe"
+      },
+      {
+        "path": "Mark-LIV-main/actions/send_message.py",
+        "sha256": "525670c61aade20bbcf6eea91acbd3855c7ccc289e0f25cc4bd9f35c529ec681"
+      },
+      {
+        "path": "Mark-LIV-main/actions/system_monitor.py",
+        "sha256": "add566373ddbed4c13ba627ae3b5637b5cd35486d47d0f964dbc6c7ad3f5fbb7"
+      },
+      {
+        "path": "Mark-LIV-main/actions/weather_report.py",
+        "sha256": "227f116d1156a8c63e9985cd2040b6f2baa0ef5c580a873081aee69c0f63efe5"
+      },
+      {
+        "path": "Mark-LIV-main/actions/web_search.py",
+        "sha256": "2e1e4ae99fa01cfdd9a77088f46c891abed5d00a87ed8bc7422e08a35012c396"
+      },
+      {
+        "path": "Mark-LIV-main/actions/youtube_video.py",
+        "sha256": "809ad59db828d989dd92b938c8fb2f76c19e95fa519137f3685ed5e6fa6ad5d1"
+      },
+      {
+        "path": "Mark-LIV-main/config/__init__.py",
+        "sha256": "961f27cef4fa3bf6172f73c5282e16a55bfe5477d50ef9695eedcb8921ac8f62"
+      },
+      {
+        "path": "Mark-LIV-main/config/jarvis.ico",
+        "sha256": "ea10c08932be8207a10bfd247dd8398242a1730d3ea1c89dbd7feba8d855828d"
+      },
+      {
+        "path": "Mark-LIV-main/core/__init__.py",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "Mark-LIV-main/core/action_loader.py",
+        "sha256": "f6bb1907f56d790ac6f67349114753594d71464a4aa84b8106422547ba5842ef"
+      },
+      {
+        "path": "Mark-LIV-main/core/audio_devices.py",
+        "sha256": "594bfd2cb7a397fd0094e247a89a9c81f0ec16e09c2dce5a3e91252780346da7"
+      },
+      {
+        "path": "Mark-LIV-main/core/avatar.py",
+        "sha256": "e582d3e88913baa69aba4d0f6ff921d23195bc4c5c16ef918f7082b385377fde"
+      },
+      {
+        "path": "Mark-LIV-main/core/avatar_mesh.py",
+        "sha256": "305682e6166db50945c91ef9b75207c534c0b6418780d0d97af9035899163c27"
+      },
+      {
+        "path": "Mark-LIV-main/core/confirm.py",
+        "sha256": "c0b4f9f191620a7c011e3623a8642ae61ba80f5e983165596cd774bfd58ca1ea"
+      },
+      {
+        "path": "Mark-LIV-main/core/echo.py",
+        "sha256": "e63af72cef93a4f0d9e4d0c18a5f021ab2c3e036c391177cf6277817afd8ec5b"
+      },
+      {
+        "path": "Mark-LIV-main/core/face_model.obj",
+        "sha256": "aaea216b33c94f89036a8d80cfeabf5375b5e32477fbd3982710ca48d3649694"
+      },
+      {
+        "path": "Mark-LIV-main/core/gemini.py",
+        "sha256": "a491e3a8a6bf10f064a6d3e2f4c6421df6a161f1d0f07d287464b1ae59b7ad4f"
+      },
+      {
+        "path": "Mark-LIV-main/core/hotkey.py",
+        "sha256": "8ef1155dc08ca0ef1ddf096aa8f01ff9a1bdf8a9cda0a221dd17e94000aed70d"
+      },
+      {
+        "path": "Mark-LIV-main/core/installer.py",
+        "sha256": "ab591b58cb3c52544870c6c67236bdd229b7cd6ca36973a783f72c647e797fe5"
+      },
+      {
+        "path": "Mark-LIV-main/core/llm_client.py",
+        "sha256": "54734db111f162db7fd87b21fceb0176e02e67daece4e755948cbafbb5f72ceb"
+      },
+      {
+        "path": "Mark-LIV-main/core/plugin_loader.py",
+        "sha256": "6018206af85c26fc3c27fc5b45f9bd167c3ecd27cbfdd5f9831ffb6ca8b0a27d"
+      },
+      {
+        "path": "Mark-LIV-main/core/prompt.txt",
+        "sha256": "a1c7d534dd4af52758587a118b046325ae4ed3c52416f0dcf41c4efe5b19bb44"
+      },
+      {
+        "path": "Mark-LIV-main/core/stt.py",
+        "sha256": "17976dec1585d7f808a1e02bbb217a88093bf6085f61b39a9bb57d2131259b8e"
+      },
+      {
+        "path": "Mark-LIV-main/core/tts.py",
+        "sha256": "1de291decabe1963c56ff9e2d3ab31d1e87bedb11ab0c11fabf0770e9bb2d6c8"
+      },
+      {
+        "path": "Mark-LIV-main/core/undo.py",
+        "sha256": "b52a0a112d9a375bce41bac8f347a7bf3f16bdded984bdf7589b13e3ef81fe84"
+      },
+      {
+        "path": "Mark-LIV-main/core/viseme.py",
+        "sha256": "1bd7a9739b4eee6ce780a488f5a7cfeddbd866bfbdaa6f02e436e488e60fa8fa"
+      },
+      {
+        "path": "Mark-LIV-main/core/wake_word.py",
+        "sha256": "9d073db8444f8d19320738530ba7adcf57467609f860678c2340b635fd200ecc"
+      },
+      {
+        "path": "Mark-LIV-main/dashboard/__init__.py",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "Mark-LIV-main/dashboard/server.py",
+        "sha256": "1ee74091b07f5be25d0786eef58c8f39e8860bffe94e0646eea37d56da961592"
+      },
+      {
+        "path": "Mark-LIV-main/dashboard/static/app.html",
+        "sha256": "23aa1ccd230b324dc10ccc5dbaa625917c3963576616ffb499fe4c93cf79a893"
+      },
+      {
+        "path": "Mark-LIV-main/dashboard/static/crypto-js.min.js",
+        "sha256": "769a555de553babc35a3338f344dd7aa16260c93cea2c7db290707c90484e7cc"
+      },
+      {
+        "path": "Mark-LIV-main/dashboard/static/login.html",
+        "sha256": "7619f310e29a8b5f045c8241f9bd596a2b57cf9e0485f2b98724a31e1b31a382"
+      },
+      {
+        "path": "Mark-LIV-main/main.py",
+        "sha256": "3ce0ebe5cf97609bd6c19542be0f2e74ef251037cda3ca428297731372458103"
+      },
+      {
+        "path": "Mark-LIV-main/memory/__init__.py",
+        "sha256": "1a53be42e3bb5daa658eac29b1df3568bbdd3f294d4a495f9f09c0e9d0e361c8"
+      },
+      {
+        "path": "Mark-LIV-main/memory/config_manager.py",
+        "sha256": "7dd1f88febed20df8ce1d9e7a439d0972617f9c1ecc54559307df868c17fd9a6"
+      },
+      {
+        "path": "Mark-LIV-main/memory/memory_manager.py",
+        "sha256": "3ecf5a9d80484bec73eef67e54c7d7e2880c726e4bfac58d05b1a14b6e1988ce"
+      },
+      {
+        "path": "Mark-LIV-main/plugins/__init__.py",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "Mark-LIV-main/plugins/_template.py",
+        "sha256": "56ec93455482fa9e08b380b6af9b06cdcc3f2c6a4c947b9f1bb617b77787ad72"
+      },
+      {
+        "path": "Mark-LIV-main/readme.md",
+        "sha256": "dc9d8aa321decfa556aa8d1a4e937b78b63ed8c2e60795fce8608b463aebaf5d"
+      },
+      {
+        "path": "Mark-LIV-main/requirements.txt",
+        "sha256": "63d2e7a05ed4797dc9128fdc172ecf5635dff8c95ba579d57b9e44040286a244"
+      },
+      {
+        "path": "Mark-LIV-main/setup.py",
+        "sha256": "c0d70adf085e5f9f9486f0631c68c6ffce6967a1bb619794f914131176ef6906"
+      },
+      {
+        "path": "Mark-LIV-main/ui.py",
+        "sha256": "5fadefd3b6ca3d6dd3aefdd4d501da9cb44f9581313c4b2e2334f400730fc749"
+      }
+    ]
+  },
+  {
+    "archive": "ultron-by-sagar-builds-main.zip",
+    "sha256": "d7a3fe40c78957f0579a07ccbe421af1302e76e81ecf234fa33c8d9bcbcf8580",
+    "entries": [
+      {
+        "path": "ultron-by-sagar-builds-main/.gitignore",
+        "sha256": "94fff2e4611e8e709f25c63dd4205ef4f5a89a9585da06b2214a15b8ac5af51b"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/LICENSE",
+        "sha256": "5ba6cba9f789de687c6a3f2f8397f302c05b0cf36d95550c6b74304f0892e43e"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/README.md",
+        "sha256": "9f5877f9c65764a5030567dad9353f6f1b5a414eff23a5bddc7bc7c8fcb6e196"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/app/globals.css",
+        "sha256": "ae2267dea75a83a8b01c882f11729ca3e63aa3e3af30a5ec0f04e4dbd06f849b"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/app/layout.tsx",
+        "sha256": "1cf3c4799d305516603fe12ab990023eda8ba5bbcc01645a13266856be65a0a4"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/app/page.tsx",
+        "sha256": "6496104e2232bd09efaeb6a8c8c15e7fb1ac8f3183b2b3b9644749f578b23249"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/components/JarvisOrb.tsx",
+        "sha256": "99ee566a01fcb6007a3fde392c69ac00a6ed8135d689543a461494f83108170c"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/docs/screenshot.png",
+        "sha256": "fbf9afc7c62529890df5b7e58118f2e13deb43720af7284ef7e32605825ac862"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/lib/handTracker.ts",
+        "sha256": "84c5c41c9899e702f7a24134134989ccb01b5661c7826d718886debd7baac8cb"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/lib/orbScene.ts",
+        "sha256": "57f8206e851aab726076e20d65576d3dfc288d53ea76ea8754135436610716b0"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/next.config.ts",
+        "sha256": "ab4c61f6ee100ae43610a18512f1ebcec842bb2405431e1009266173f21cf772"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/package-lock.json",
+        "sha256": "3fa9acb6902f48c8ffd30bede71b95c01ae4629c21b3a786cf2bde832e84562f"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/package.json",
+        "sha256": "dcd8fc33dbad1f0e0eaebb2448e7197ca0de313028b52299e2dc4d9cd0a7c928"
+      },
+      {
+        "path": "ultron-by-sagar-builds-main/tsconfig.json",
+        "sha256": "9ae7ca3817f842a5d233859a9b48b0bcebe7f71e5d7b678f24d707a9fae94abe"
+      }
+    ]
+  }
+]
